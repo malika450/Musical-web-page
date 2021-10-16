@@ -1,0 +1,192 @@
+body{
+    background-color:	#ffb6c1;
+}
+.heading{
+    color: #FFFAFA;
+    background-color: palevioletred;
+}
+.headings{
+    color: #FFFAFA;
+    background-color: palevioletred;
+}
+.heading3{
+    color: #FFFAFA;
+    background-color: palevioletred;
+}
+.heading4{
+    color: #FFFAFA;
+    background-color: palevioletred;
+}
+
+img:hover{
+    background-color: white ;
+    transform: scale(1.1);
+    
+}
+.list{
+font-size: 20px;
+color: #ffffff;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.gana {
+    -webkit-border-radius: 21;
+    -moz-border-radius: 21;
+    border-radius: 21px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #F25287;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+ margin-left: 20px;
+}
+  
+  .gana:hover {
+    background: #FF96AD;
+    text-decoration: none;
+  }
+
+
+
+
+.jazz{
+    -webkit-border-radius: 21;
+    -moz-border-radius: 21;
+    border-radius: 21px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #F25287;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+ margin-left: 20px
+}
+.jazz:hover {
+    background: #FF96AD;
+    text-decoration: none;
+  }
+
+
+
+.edm{
+    -webkit-border-radius: 21;
+    -moz-border-radius: 21;
+    border-radius: 21px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #F25287;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+ margin-left: 20px
+}
+.edm:hover {
+    background: #FF96AD;
+    text-decoration: none;
+  }
+
+
+.chill{
+    -webkit-border-radius: 21;
+    -moz-border-radius: 21;
+    border-radius: 21px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #F25287;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+ margin-left: 20px
+}
+.chill:hover {
+    background: #FF96AD;
+    text-decoration: none;
+}
+
+
+.bolly{
+    -webkit-border-radius: 21;
+    -moz-border-radius: 21;
+    border-radius: 21px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #F25287;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+ margin-left: 20px
+}
+
+.bolly:hover {
+    background: #FF96AD;
+    text-decoration: none;
+}
+
+
+
+
+
+
+.taylor{
+    width: 300px;  
+    height: auto;  
+    padding: 15px;   
+}
+
+.selena{
+    width: 200px;  
+    height: auto;  
+    padding: 15px; 
+
+}
+.justin{
+    width: 200px;  
+    height: auto;  
+    padding: 15px; 
+
+
+}
+.britany{
+    width: 200px;  
+    height: auto;  
+    padding: 15px; 
+
+
+}
+
+
+.weekend{
+    width: 230px;  
+    height: auto;  
+    padding: 15px; 
+
+
+}
+.ariana{
+    width: 250px;  
+    height: auto;  
+    padding: 15px; 
+}
+.drake{
+    width: 200px;  
+    height: auto;  
+    padding: 15px; 
+}
+.billie{
+    width: 240px;  
+    height: auto;  
+    padding: 15px; 
+}
+.niki{
+    width: 150px;  
+    height: auto;  
+    padding: 15px; 
+}
+.eminem{
+    width: 180px;  
+    height: auto;  
+    padding: 15px; 
+}
